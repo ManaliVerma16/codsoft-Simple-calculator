@@ -1,4 +1,4 @@
-Task 2 – Calculator Program
+Simple calculator 
 
 This is a simple calculator made in c++
 🛠️ Features:
